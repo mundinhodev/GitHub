@@ -7,7 +7,7 @@
 <h2 align="center">📌 Slide 1 — O que é o GitHub?</h2>
 
 <p align="center">
-  <img src="img/1696598008964.pngg" width="700" alt="Página inicial do GitHub">
+  <img src="../img/1696598008964.pngg" width="700" alt="Página inicial do GitHub">
 </p>
 
 <p align="center">
