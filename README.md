@@ -55,7 +55,6 @@ Acede a <strong>github.com</strong> e cria a tua conta gratuita.
   <img src="imagens/clone.png" width="600" alt="Clonar repositório">
 </p>
 
-```bash
 git clone https://github.com/teu-usuario/teu-repo.git
 <h2 align="center">📝 Slide 5 — Fazer Commits</h2>
 <p align="center"><img src="imagens/commit.png" width="600" alt="Commit no GitHub Desktop ou terminal"></p>
