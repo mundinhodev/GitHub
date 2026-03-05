@@ -25,7 +25,7 @@ GitHub é uma plataforma onde guardas código, colaboras com outras pessoas e co
 <h2 align="center">🧰 Slide 2 — Criar uma Conta</h2>
 
 <p align="center">
-  <img src="imagens/criar-conta.png" width="600" alt="Criar conta no GitHub">
+  <img src="img/criar-conta.png" width="600" alt="Criar conta no GitHub">
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ Acede a <strong>github.com</strong> e cria a tua conta gratuita.
 
 ---
 
-<h2 align="center">📦 Slide 3 — Criar o Primeiro Repositório</h2>
+<h2 align="center">📦 Slide 3 — Criar o Repositório</h2>
 
 <p align="center">
   <img src="img/novo-repo.png" width="650" alt="Criar novo repositório">
