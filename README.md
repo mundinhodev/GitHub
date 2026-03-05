@@ -55,7 +55,3 @@ git push
 <ul><li>Vai a <strong>Settings → Pages</strong></li><li>Escolhe a branch</li><li>Publica</li></ul>
 
 <h2 align="center">🎉 Fim do Tutorial</h2><p align="center">Agora já sabes usar GitHub — e aprendeste dentro do próprio GitHub!</p>``
-
-
-```bash
-git clone https://github.com/teu-usuario/teu-repo.git
