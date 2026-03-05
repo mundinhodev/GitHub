@@ -1,23 +1,19 @@
-# GitHub
-<h1 align="center" style="font-size: 3rem;">🚀 Tutorial Criativo: Como Usar o GitHub</h1>
-<p align="center"><em>Aprende GitHub diretamente nesta apresentação interativa</em></p>
 
+<p align="center">
+  <img src="img/1696598008964.png" width="700" alt="Página inicial do GitHub">
+</p>
 ---
 
 <h2 align="center">📌 Slide 1 — O que é o GitHub?</h2>
 
 <p align="center">
-  <img src="img/1696598008964.png" width="700" alt="Página inicial do GitHub">
+O GitHub é uma plataforma de controle de versões gratuita que serve para gerir projetos, controlar versões e permite a colaboração entre uma grande comunidade de desenvolvedores,usando <strong>Git</strong>.
 </p>
-
-<p align="center">
-GitHub é uma plataforma onde guardas código, colaboras com outras pessoas e controlas versões usando <strong>Git</strong>.
-</p>
-
+<p>Serve para:</p>
 <ul>
-  <li>Guarda o histórico de alterações</li>
-  <li>Permite trabalho em equipa</li>
-  <li>Suporta projetos públicos e privados</li>
+  <li>Guarda o histórico de alterações.</li>
+  <li>Permite trabalho em equipa.</li>
+  <li>Suporta projetos públicos e privados.</li>
 </ul>
 
 ---
@@ -25,7 +21,7 @@ GitHub é uma plataforma onde guardas código, colaboras com outras pessoas e co
 <h2 align="center">🧰 Slide 2 — Criar uma Conta</h2>
 
 <p align="center">
-  <img src="img/criar-conta.png" width="600" alt="Criar conta no GitHub">
+  <img src="img/criar-conta.png" width="800" alt="Criar conta no GitHub">
 </p>
 
 <p align="center">
@@ -37,7 +33,7 @@ Acede a <strong>github.com</strong> e cria a tua conta gratuita.
 <h2 align="center">📦 Slide 3 — Criar o Repositório</h2>
 
 <p align="center">
-  <img src="img/novo-repo.png" width="650" alt="Criar novo repositório">
+  <img src="img/novo-repo.png" width="800" alt="Criar novo repositório">
 </p>
 
 <ul>
