@@ -37,7 +37,7 @@ Acede a <strong>github.com</strong> e cria a tua conta gratuita.
 <h2 align="center">📦 Slide 3 — Criar o Primeiro Repositório</h2>
 
 <p align="center">
-  <img src="imagens/novo-repo.png" width="650" alt="Criar novo repositório">
+  <img src="img/novo-repo.png" width="650" alt="Criar novo repositório">
 </p>
 
 <ul>
